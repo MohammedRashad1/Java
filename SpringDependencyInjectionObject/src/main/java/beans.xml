@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+   http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+	<bean id="mathCheatObectValue" class="com.ibs.training.SpringDependencyInjectionObject.MathCheat"></bean>
+	
+	<bean id="stud" class="com.ibs.training.SpringDependencyInjectionObject.Student">
+		<property name="id" value="1000"></property>
+		<property name="mathCheat" ref="mathCheatObectValue"/>
+	</bean>
+	
+	<bean id="Student2" class="com.ibs.training.SpringDependencyInjectionObject.Student2">
+		<property name="id" value="1002"></property>
+		<property name="cheat" ref="mathCheatObectValue"/>
+		
+	</bean>
+
+</beans>

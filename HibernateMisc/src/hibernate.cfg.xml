@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+    "-//Hibernate/Hibernate Configuration DTD//EN"
+    "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+
+	<session-factory>
+
+<property name="connection.driver_class">org.postgresql.Driver</property>
+
+		<property name="connection.url">jdbc:postgresql://localhost:5432/LitmusTraining</property>
+
+		<property name="connection.username">postgres</property>
+
+		<property name="connection.password">manager123</property>
+		
+		<property name="connection.pool_size">1</property>
+
+		<property name="dialect">org.hibernate.dialect.PostgreSQLDialect</property> 
+		<!-- this is very unique to hibernate and you set this based on the DB provider -->
+		
+		<property name="show_sql">true</property>
+		
+		<property name="hbm2ddl.auto">update</property>
+		<!-- this helps to create table in DB based on your java class configuration -->
+		<!-- multiple options like create means drop and create new table, update means check for any changes and update the table -->
+				
+		<mapping class="com.ibs.training.hibernate.entity.Student"/>
+	
+		
+				
+	</session-factory>
+
+</hibernate-configuration>
+
+

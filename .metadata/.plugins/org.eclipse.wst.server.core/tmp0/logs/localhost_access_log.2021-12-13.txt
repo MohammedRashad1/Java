@@ -1,0 +1,14 @@
+127.0.0.1 - - [13/Dec/2021:13:20:09 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [13/Dec/2021:13:20:10 +0530] "GET /FirstWebProject/index.html HTTP/1.1" 200 150
+0:0:0:0:0:0:0:1 - - [13/Dec/2021:13:21:10 +0530] "GET /FirstWebProject/index.html HTTP/1.1" 200 176
+0:0:0:0:0:0:0:1 - - [13/Dec/2021:13:21:51 +0530] "GET /FirstWebProject/index.html HTTP/1.1" 200 203
+0:0:0:0:0:0:0:1 - - [13/Dec/2021:13:22:44 +0530] "GET /FirstWebProject/index.html HTTP/1.1" 200 232
+0:0:0:0:0:0:0:1 - - [13/Dec/2021:13:23:51 +0530] "GET /FirstWebProject/index.html HTTP/1.1" 200 233
+0:0:0:0:0:0:0:1 - - [13/Dec/2021:13:25:04 +0530] "GET /FirstWebProject/index.html HTTP/1.1" 200 234
+0:0:0:0:0:0:0:1 - - [13/Dec/2021:13:25:05 +0530] "GET /FirstWebProject/www.google.com HTTP/1.1" 404 1054
+0:0:0:0:0:0:0:1 - - [13/Dec/2021:13:25:39 +0530] "GET /FirstWebProject/index.html HTTP/1.1" 200 234
+0:0:0:0:0:0:0:1 - - [13/Dec/2021:13:25:41 +0530] "GET /FirstWebProject/www.ibsplc.com HTTP/1.1" 404 1054
+0:0:0:0:0:0:0:1 - - [13/Dec/2021:13:26:30 +0530] "GET /FirstWebProject/index.html HTTP/1.1" 200 241
+0:0:0:0:0:0:0:1 - - [13/Dec/2021:13:26:31 +0530] "GET /FirstWebProject/www.ibsplc.com HTTP/1.1" 404 1054
+0:0:0:0:0:0:0:1 - - [13/Dec/2021:13:31:01 +0530] "GET /FirstWebProject/index.html HTTP/1.1" 200 238
+0:0:0:0:0:0:0:1 - - [13/Dec/2021:13:31:34 +0530] "GET /FirstWebProject/index.html HTTP/1.1" 200 246

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.ibs.training.springBoot"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="SpringBootTesting"/>
+			<item value="springBootSample"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.MavenProjectSelectionDialog">
+		<item value="480" key="width"/>
+		<item value="720" key="x"/>
+		<item value="129" key="y"/>
+		<item value="450" key="height"/>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item value="480" key="width"/>
+		<item value="782" key="x"/>
+		<item value="142" key="y"/>
+		<item value="531" key="height"/>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\A-10563\workspace\Spring-SecurityConfig"/>
+			<item value="C:\Users\A-10563\workspace\spring-boot-crud-task"/>
+			<item value="D:\Sample Programs\spring-boot-config\spring-boot-config"/>
+			<item value="D:\Sample Programs\rating-data-service\rating-data-service"/>
+			<item value="D:\Sample Programs\movie-info-service\movie-info-service"/>
+			<item value="D:\Sample Programs\movie-catalog-service"/>
+			<item value="D:\Sample Programs\SpringBootSampleTesting\SpringBootSampleTesting"/>
+			<item value="D:\Sample Programs\SpringBootCrud\SpringBootCrud"/>
+			<item value="D:\Sample Programs\SpringDataRest\SpringDataRest"/>
+			<item value="D:\Sample Programs\SpringBootJpa\SpringBootJpa"/>
+			<item value="D:\Sample Programs\BootJpa\BootJpa"/>
+			<item value="D:\Sample Programs\CourseWebApp\CourseWebApp"/>
+			<item value="D:\Sample Programs\MyWebApp"/>
+			<item value="D:\Sample Programs\SpringBootSample\SpringBootSample"/>
+			<item value="D:\Sample Programs\Spring-Hibernate\Spring-Hibernate"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="Spring-Hibernate"/>
+			<item value="SpringAnnotations2"/>
+			<item value="-"/>
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item value="internal" key="catalog"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\A-10563\workspace\Spring-value-required-annotations\src\main\java\beans.xml"/>
+			<item value="D:\Sample Programs\Spring_Training\litmus\src\main\java\spring-config.xml"/>
+			<item value="C:\Users\A-10563\workspace\LitmusSpring\pom.xml"/>
+			<item value="D:\Sample Programs\litmus\litmus\pom.xml"/>
+			<item value="C:\Users\A-10563\workspace"/>
+			<item value="C:\Users\A-10563\workspace\DemoApp"/>
+			<item value="C:\Users\A-10563\workspace\MavenProject"/>
+			<item value="C:\Users\A-10563\workspace\MavenProject\pom.xml"/>
+			<item value="C:\Users\A-10563\workspace\mockito\src\test\java\com\ibs\mockito\AppTest.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.editor.dialogs.ManageDependenciesDialog">
+		<item value="613" key="width"/>
+		<item value="654" key="x"/>
+		<item value="169" key="y"/>
+		<item value="527" key="height"/>
+	</section>
+</section>

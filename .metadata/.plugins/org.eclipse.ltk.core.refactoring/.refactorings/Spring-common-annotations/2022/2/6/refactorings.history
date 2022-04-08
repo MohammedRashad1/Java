@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;MathTeacher.java&apos; to &apos;Spring-common-annotations/src/main/java/com.ibs.training.Spring_common_annotations&apos;&#x0D;&#x0A;- Original project: &apos;Spring-common-annotations&apos;&#x0D;&#x0A;- Destination element: &apos;Spring-common-annotations/src/main/java/com.ibs.training.Spring_common_annotations&apos;&#x0D;&#x0A;- Original element: &apos;com.ibs.training.Spring_common_annotations.MathTeacher.java&apos;" description="Copy compilation unit" destination="/src\/main\/java&lt;com.ibs.training.Spring_common_annotations" element1="/src\/main\/java&lt;com.ibs.training.Spring_common_annotations{MathTeacher.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1643706982644" units="1" version="1.0"/>
+</session>

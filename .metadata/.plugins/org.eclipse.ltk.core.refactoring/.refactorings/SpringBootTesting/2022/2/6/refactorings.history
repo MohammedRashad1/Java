@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.ibs.training.hello&apos; to &apos;com.ibs.training.springbootstarter.hello&apos;&#x0D;&#x0A;- Original project: &apos;SpringBootTesting&apos;&#x0D;&#x0A;- Original element: &apos;SpringBootTesting/src/main/java/com.ibs.training.hello&apos;&#x0D;&#x0A;- Renamed element: &apos;SpringBootTesting/src/main/java/com.ibs.training.springbootstarter.hello&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.ibs.training.hello&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;com.ibs.training.hello" name="com.ibs.training.springbootstarter.hello" qualified="false" references="true" stamp="1643785610062" textual="false" version="1.0"/>
+</session>
